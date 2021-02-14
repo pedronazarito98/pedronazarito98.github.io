@@ -229,5 +229,6 @@ body {
 @media (max-width: 400px) {
   .bio {
     height: 450px;
+    background: red;
   }
 }
